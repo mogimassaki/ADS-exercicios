@@ -11,6 +11,7 @@ Repositório criado para armazenar e documentar a minha evolução prática na d
 * `02-estruturas-condicionais/`: Tomadas de decisão (`if`, `elif`, `else`).
 * `03-estruturas-repeticao/`: Laços de repetição (`while`, `for`).
 * `04-funcoes-e-listas/`: Modularização e estruturas de dados.
+## Estruturas Condicionais
 
 ## 📈 Meu Objetivo
 Consolidar a lógica de programação, aprender boas práticas de versionamento com Git/GitHub e construir uma base sólida para os próximos semestres.
